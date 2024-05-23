@@ -7,8 +7,8 @@ const SignInPage = () => {
     <div className={styles.signInPage}>
       <Header
         logo="/logo1.svg"
-        notifications="/notifications1@2x.png"
-        avatar="/avatar2@2x.png"
+        notifications="/notifications@2x.png"
+        avatar="/avatar@2x.png"
         showLoginSection={false}
       />
       <main className={styles.loginSections}>

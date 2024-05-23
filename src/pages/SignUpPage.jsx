@@ -23,7 +23,7 @@ const SignUpPage = () => {
       <Header
         logo="/logo1.svg"
         notifications="/notifications@2x.png"
-        avatar="/avatar1@2x.png"
+        avatar="/avatar@2x.png"
         showLoginSection={false}
       />
       <main className={styles.loginSections}>
@@ -130,7 +130,7 @@ const SignUpPage = () => {
               </div>
               <SocialMediaLogin
                 orSignUpWith="Or sign up with"
-                image="/image1@2x.png"
+                image="/image@2x.png"
                 image1="/image-15@2x.png"
                 image2="/image-21@2x.png"
               />
